@@ -179,7 +179,7 @@ class Hotel {
 
             saveBooking(booking);
 
-     System.out.println("\nRoom Book Successfully                                               !");
+     System.out.println("\nRoom Book Successfully!");
      return;
          } else {
         room.setAvailable(true);

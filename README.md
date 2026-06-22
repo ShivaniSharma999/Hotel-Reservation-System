@@ -6,17 +6,17 @@ bookings. Customers can view available rooms, reserve rooms, check booking detai
 The system maintains room availability and customer records efficiently.
 
 Features-
-Add customer details
-View available rooms
-Book a room
-Cancel reservation
-Display booking details
-Generate bill
-Room availability management
+Add customer details,
+View available rooms,
+Book a room,
+Cancel reservation,
+Display booking details,
+Generate bill,
+Room availability management.
 
 Technologies Used-
-Java
-OOP Concepts (Classes, Objects, Encapsulation)
-ArrayList
-Scanner Class
-Exception Handling
+Java,
+OOP Concepts (Classes, Objects, Encapsulation),
+ArrayList,
+Scanner Class,
+Exception Handling.
